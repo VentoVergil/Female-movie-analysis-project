@@ -8,7 +8,7 @@ Analysis of "Woman's film" movies
 * [Results](#results)
 
 ## General Info
-  Women's Film Analysis (2018-2022) with Power BI
+  "Womea's Film" Analysis (2018-2022) with python and Power BI
 
 ## Dataset
   Data utilized in this project was obtained from Kaggle.
