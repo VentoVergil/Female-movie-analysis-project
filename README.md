@@ -1,5 +1,5 @@
 # Female-movie-analysis-project
-Analysis of "Female lead movies", 'Feminist movies"
+Analysis of "Woman's film" movies
 
 ## Table of Contents
 * [General Info](#general-info)
